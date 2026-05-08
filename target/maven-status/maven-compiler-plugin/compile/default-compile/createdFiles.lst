@@ -1,0 +1,10 @@
+com\instituto\controller\AulaController.class
+com\instituto\service\AulaService.class
+com\instituto\service\CalificacionesService.class
+com\instituto\service\EstudiantesService.class
+com\instituto\controller\CalificacionesController.class
+com\instituto\controller\EstudiantesController.class
+com\instituto\estructuras\Nodo.class
+com\instituto\model\Estudiante.class
+com\instituto\InstitutoApplication.class
+com\instituto\estructuras\ListaEstudiantes.class
