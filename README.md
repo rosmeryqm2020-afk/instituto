@@ -1,10 +1,10 @@
-# Instituto - Sistema de Gestión Académica
+# Instituto - Sistema para administrar
 
 API REST desarrollada con **Spring Boot** para gestionar calificaciones, asientos de aula y estudiantes.
 
 ## Tecnologías
 - Java 17
-- Spring Boot 3.2.0
+- Spring Boot 
 - Maven
 
 ## Estructura del Proyecto
@@ -25,7 +25,7 @@ src/main/java/com/instituto/
      └── ListaEstudiantes.java
 ```
 
-## Cómo ejecutar
+## como se ejecuta, de esta siguente manera:
 
 ### Requisitos
 - Java 17 instalado
@@ -37,7 +37,7 @@ git clone <URL_DEL_REPOSITORIO>
 cd instituto
 mvn spring-boot:run
 ```
-La aplicación estará disponible en: `http://localhost:8080`
+La aplicacion estara disponible en: `http://localhost:8080`
 
 ---
 
